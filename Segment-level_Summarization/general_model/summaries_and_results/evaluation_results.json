@@ -1,0 +1,10 @@
+{
+    "ROUGE-1": 0.6617,
+    "ROUGE-2": 0.5457,
+    "ROUGE-L": 0.6194,
+    "BLEU": 0.2906,
+    "METEOR": 0.5705,
+    "BERTScore_P": 0.871,
+    "BERTScore_R": 0.8479,
+    "BERTScore_F1": 0.8579
+}
